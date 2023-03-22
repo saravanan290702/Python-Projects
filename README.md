@@ -1,5 +1,5 @@
 # Python-Projects
- Group of python projects
+  <h3 align="center">Group of python projects</h3>
 
 
   [![Twitter](https://img.shields.io/twitter/follow/qxresearch.svg?style=social&label=Twitter)]([https://twitter.com/qxresearch](https://twitter.com/Saravanan290702))
