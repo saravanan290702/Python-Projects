@@ -1,8 +1,5 @@
 <p align="center">
   <h2 align="center">Group of python projects</h2>
-  <br />
-    <br>
-    <br />
 </p>
 
 
