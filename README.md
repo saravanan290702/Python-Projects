@@ -17,7 +17,7 @@
 
 The project was made based on the iconic matrix background. It uses the pygame module to achieve the result.
 
-https://user-images.githubusercontent.com/76428931/226999748-f86fd4fb-8730-47c5-863b-a4db4168d3c6.mp4
+![Matrix_Background](https://user-images.githubusercontent.com/76428931/227002674-fe3de84a-436c-4ff2-991c-bbd6a781be97.gif)
 
 > **Note**
 download and install the font "ms mincho" before running the code
