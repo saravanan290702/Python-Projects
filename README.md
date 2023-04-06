@@ -17,5 +17,5 @@ The project was made based on the iconic matrix background. It uses the pygame m
 ![Matrix_Background](https://user-images.githubusercontent.com/76428931/227002674-fe3de84a-436c-4ff2-991c-bbd6a781be97.gif)
 
 > **Note**
-download and install the font "ms mincho" before running the code
+download and install the font "ms mincho" before running the code.
 
